@@ -7,6 +7,7 @@ const Dashboard = ({address}) => {
   <Wrapper > 
     <MainContainer> 
       <Header />
+      <Main />
     </MainContainer>
    
   </Wrapper>
